@@ -1,0 +1,128 @@
+Player: Red
+Move: S at Row 0, Col 0
+Board:
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+
+
+Player: Red
+Move: O at Row 0, Col 0
+Board:
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+_ _ _ _ _ _ _ 
+
+
+Player: Red
+Move: S at Row 0, Col 0
+Board:
+O _ _ 
+S _ _ 
+_ _ _ 
+
+
+Player: Blue
+Move: O at Row 0, Col 0
+Board:
+O S _ 
+S _ _ 
+_ _ _ 
+
+
+Player: Blue
+Move: S at Row 0, Col 0
+Board:
+O S _ 
+S S _ 
+O _ _ 
+
+
+Player: Blue
+Move: O at Row 0, Col 0
+Board:
+O S _ 
+S S _ 
+O _ _ 
+
+
+Player: Red
+Move: O at Row 0, Col 0
+Board:
+O S _ 
+S S O 
+O _ _ 
+
+
+Player: Red
+Move: S at Row 0, Col 0
+Board:
+O S _ 
+S S O 
+O _ _ 
+
+
+Player: Blue
+Move: S at Row 0, Col 0
+Board:
+O S _ 
+S S O 
+O S _ 
+
+
+Player: Red
+Move: O at Row 0, Col 0
+Board:
+O S S 
+S S O 
+O S _ 
+
+
+Player: Red
+Move: S at Row 0, Col 0
+Board:
+S _ _ 
+_ O _ 
+_ _ _ 
+
+
+Player: Blue
+Move: O at Row 0, Col 0
+Board:
+S _ S 
+_ O _ 
+_ _ _ 
+
+
+Player: Red
+Move: O at Row 0, Col 0
+Board:
+S _ S 
+_ O _ 
+O _ _ 
+
+
+Player: Blue
+Move: S at Row 0, Col 0
+Board:
+S O S 
+_ O _ 
+O _ _ 
+
+
+Player: Red
+Move: S at Row 0, Col 0
+Board:
+S O S 
+_ O _ 
+O S _ 
+
+
